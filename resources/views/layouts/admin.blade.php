@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>GegeTour Admin</title>
+  <title>Solimi Admin</title>
 
   @include('includes.admin.style')
 
@@ -66,6 +66,8 @@
       </div>
     </div>
   </div>
+
+  
 
   @include('includes.admin.script')
 

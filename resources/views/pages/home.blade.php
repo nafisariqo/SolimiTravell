@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-GegeTour
+Solimi Travell
 @endsection
 
 @section('content')
@@ -12,7 +12,7 @@ GegeTour
     <br />
     As Easy One Click
   </h1>
-  <p class="mt-3">
+  <p class="mt-5">
     You will see beautiful
     <br />
     moment you never see before
@@ -129,11 +129,12 @@ GegeTour
           <div class="card card-testimonial text-center">
             <div class="testiominal-content">
               <img
-                src="frontend/images/Ridwan.png"
+                style="width: 200px; height: 200px; object-fit:cover;"
+                src="frontend/images/fb1.jpeg"
                 alt="User"
                 class="mb-4 rounded-circle"
               />
-              <h3 class="mb-4">Muhammad Ridwan Ramadhan</h3>
+              <h3 class="mb-4">Choi Taek</h3>
               <p class="testimonial">
                 “ It was glorious and I could not stop to say wohooo for
                 every single moment Dankeeeeee “
@@ -141,7 +142,7 @@ GegeTour
             </div>
             <hr />
             <p class="trip-to mt-2">
-              Trip to Singapore
+              Trip to Bidadari Waterfall
             </p>
           </div>
         </div>
@@ -149,11 +150,12 @@ GegeTour
           <div class="card card-testimonial text-center">
             <div class="testiominal-content">
               <img
-                src="frontend/images/Arifah.png"
+                style="width: 200px; height: 200px; object-fit:cover;"
+                src="frontend/images/fb3.jpeg"
                 alt="User"
                 class="mb-4 rounded-circle"
               />
-              <h3 class="mb-4">Arifah Fariza</h3>
+              <h3 class="mb-4">Yu Na Bi</h3>
               <p class="testimonial">
                 “ The trip was amazing and I saw something beautiful in that
                 Island that makes me want to learn more “
@@ -161,7 +163,7 @@ GegeTour
             </div>
             <hr />
             <p class="trip-to mt-2">
-              Trip to Raja Ampat
+              Trip to Cibaliung Waterfall
             </p>
           </div>
         </div>
@@ -169,11 +171,12 @@ GegeTour
           <div class="card card-testimonial text-center">
             <div class="testiominal-content">
               <img
-                src="frontend/images/Ami.png"
+                style="width: 200px; height: 200px; object-fit:cover;"
+                src="frontend/images/fb2.jpeg"
                 alt="User"
                 class="mb-4 rounded-circle"
               />
-              <h3 class="mb-4">Nur Aminah</h3>
+              <h3 class="mb-4">Park Jae On</h3>
               <p class="testimonial">
                 “ I loved it when the waves was shaking harder — I was
                 scared too “
@@ -181,7 +184,7 @@ GegeTour
             </div>
             <hr />
             <p class="trip-to mt-2">
-              Trip to Bali
+              Trip to Leuwi Hejo Waterfall
             </p>
           </div>
         </div>

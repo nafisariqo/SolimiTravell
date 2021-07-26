@@ -31,10 +31,10 @@
           <div class="col-12 col-lg-3">
             <h5>GET CONNECTED</h5>
             <ul class="list-unstyled">
-              <li><a href="#">Jakarta Selatan</a></li>
+              <li><a href="#">Kota Hujan</a></li>
               <li><a href="#">Indonesia</a></li>
-              <li><a href="#">0821 - 1088 - 3990</a></li>
-              <li><a href="#">support@gegetour.id</a></li>
+              <li><a href="#">021-9922-1188</a></li>
+              <li><a href="#">support@solimitravell.id</a></li>
             </ul>
           </div>
         </div>
@@ -46,7 +46,7 @@
       class="row border-top justify-content-center align-items-center pt-4"
     >
       <div class="col-auto text-gray-500 font-weight-light">
-        Copyright GegeTour 2020
+        Copyright Solimi Travell 2021
       </div>
     </div>
   </div>
