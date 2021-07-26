@@ -16,24 +16,24 @@ Please visit the following link to try my website [link](https://drive.google.co
 
 ### [Screenshoot Website]
 
-<img src="/ss/Screenshot from ss1.jpeg" width="960" height="540">
+<img src="/ss/ss1.jpeg" width="960" height="540">
 
-<img src="/ss/Screenshot from ss2.jpeg" width="960" height="540">
+<img src="/ss/ss2.jpeg" width="960" height="540">
 
-<img src="/ss/Screenshot from ss3.jpeg" width="960" height="540">
+<img src="/ss/ss3.jpeg" width="960" height="540">
 
-<img src="/ss/Screenshot from ss4.jpeg" width="960" height="540">
+<img src="/ss/ss4.jpeg" width="960" height="540">
 
-<img src="/ss/Screenshot from ss5.jpeg" width="960" height="540">
+<img src="/ss/ss5.jpeg" width="960" height="540">
 
-<img src="/ss/Screenshot from ss6.jpeg" width="960" height="540">
+<img src="/ss/ss6.jpeg" width="960" height="540">
 
-<img src="/ss/Screenshot from ss7.jpeg" width="960" height="540">
+<img src="/ss/ss7.jpeg" width="960" height="540">
 
-<img src="/ss/Screenshot from ss8.jpeg" width="960" height="540">
+<img src="/ss/ss8.jpeg" width="960" height="540">
 
-<img src="/ss/Screenshot from ss9.jpeg" width="960" height="540">
+<img src="/ss/ss9.jpeg" width="960" height="540">
 
-<img src="/ss/Screenshot from ss10.jpeg" width="960" height="540">
+<img src="/ss/ss10.jpeg" width="960" height="540">
 
-<img src="/ss/Screenshot from ss11.jpeg" width="960" height="540">
+<img src="/ss/ss11.jpeg" width="960" height="540">
